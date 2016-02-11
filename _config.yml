@@ -1,0 +1,28 @@
+name: DeepBodyMatrix
+favicon: null
+layout_spectrum: 0.15578199573792517
+typography_spectrum: 0.5425194527488202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.34668934368528426
+  lightness: 0.029194982955232263
+  saturation: 0.48669848311692476
+  rhythmicContrast: 0.3737483180593699
+purpose: []
